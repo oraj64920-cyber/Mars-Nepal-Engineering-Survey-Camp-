@@ -1,2 +1,2 @@
 # Mars-Nepal-Engineering-Survey-Camp-
-The project portrays the struggle did  in survey camp to prepare a report or a plan with geographicaland topographcial map indicating the details , contours of Road and Bridge Longitudinal and Cross Sections, Aligment and Axis with the use of resection and intersection methods to find coordinates of unknown stations with the help of known stations.The proficiency in using surveying instruments (Total Station) and technology (AutoCAD, SWDTM, MS- Office) was also developed during the camp. Additionally, In a group we also did laying out building design using Total station with the 3-4-5 method.
+
